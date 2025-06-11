@@ -1,11 +1,10 @@
 ### Hi, I'm Tejas 👋
 
-🎓 MTech in IAP at IISc Bangalore  
+🎓 MTech at IISc Bangalore  
 🧠 Passionate about Machine Learning, Computer Vision, and Health Tech  
 📍 Currently working on:  
-- 🧍‍♂️ **ML-Based Gait Analysis System** using IMU and camera data  
-- 🔄 Trajectory prediction using **Seq2Seq and LSTM** architectures  
-- 🧼 Predictive maintenance using sensor fusion (IMU + YF-S201) with 83% accuracy  
+-  **Feasibility of Augmenting Gait Analysis with Machine Learning Models**
+ 
 
 🚀 Past Projects:  
 - 🖼️ **Image Captioning** using ResNet-LSTM with Attention (BLEU: 0.68)  
