@@ -21,4 +21,4 @@ ML/DS: PCA, SVM, Clustering, Decision Trees, AUC, F1
 Machine Learning | Deep Learning | Data Science | Robotics Perception | Pattern Recognition
 
 📫 Contact Me:  
-📧 tejasramdas@iisc.ac.in | 🌐 [LinkedIn](https://linkedin.com/in/tejasdoypare96)  
+📧 tejasdoypare@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/tejasdoypare96)  
